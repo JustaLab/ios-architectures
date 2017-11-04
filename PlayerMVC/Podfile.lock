@@ -1,0 +1,17 @@
+PODS:
+  - Nikka/Core (2.0.1)
+  - Nikka/Futures (2.0.1):
+    - Nikka/Core
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Nikka/Futures (~> 2.0.1)
+  - SnapKit (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  Nikka: e2530d34fa6e2e66f9970ff7f330d5f048acb6a5
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 268bd71de3ecb07bdb93b331271a9b3d5618f8b3
+
+COCOAPODS: 1.3.1
